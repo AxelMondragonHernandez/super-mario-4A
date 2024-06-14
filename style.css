@@ -1,0 +1,11 @@
+DE: start
+DS: Game Over
+
+inicio
+mostrar start
+oprimir botton start
+oprimir Flecha izquierda: Mover a la izquierda
+oprimir Flecha derecha: Mover a la derecha
+oprimir Espacio: Disparar proyectiles
+si llega a chocar con un obstaculo mostrar game over
+fin
